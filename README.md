@@ -8,7 +8,8 @@ I have used:
 * Coursera https://www.coursera.org/ ,
 * Alison https://alison.com/ ,
 * others
-to  improve my skills and gain the new ones I deemed useful.
+
+This is the manner I used to  improve my skills and gain the new ones I deemed useful.
 
 ## “Learning is a Lifelong Process”
 “We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.” -  Peter Drucker
