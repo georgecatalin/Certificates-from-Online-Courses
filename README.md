@@ -7,6 +7,7 @@ I have used:
 * Udemy https://www.udemy.com/, 
 * Coursera https://www.coursera.org/ ,
 * Alison https://alison.com/ ,
+* Eduonix https://www.eduonix.com/
 * others
 
 This is the manner I used to  improve my skills and gain the new ones I deemed useful.
