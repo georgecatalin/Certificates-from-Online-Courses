@@ -1,7 +1,7 @@
 # Certificates from Online Courses
 Certificates from my journey of continuous online learning.
 
-I have used:
+I am using:
 * LinkedIn Learning https://www.linkedin.com/learning/ ,
 * Pluralsight https://www.pluralsight.com/, 
 * Udemy https://www.udemy.com/, 
