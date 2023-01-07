@@ -8,7 +8,7 @@ I am using:
 * Coursera https://www.coursera.org/ ,
 * Alison https://alison.com/ ,
 * Eduonix https://www.eduonix.com/
-* others
+* Educative https://www.educative.io/
 
 This is the manner I used to  improve my skills and gain the new ones I deemed useful.
 
