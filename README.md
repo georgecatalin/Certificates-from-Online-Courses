@@ -10,8 +10,6 @@ I am using:
 * Eduonix https://www.eduonix.com/
 * Educative https://www.educative.io/
 
-This is the manner I use to  improve my skills and gain the new ones I deem useful.
-
 ![continuous learning](Learning.png)
 
 ## Quote ##
