@@ -14,7 +14,7 @@ This is the manner I use to  improve my skills and gain the new ones I deem usef
 
 ![continuous learning](Learning.png)
 
-Learning is a Lifelong Process
+## Quote ##
 “We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.” -  Peter Drucker
 
 
