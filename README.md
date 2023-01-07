@@ -10,9 +10,11 @@ I am using:
 * Eduonix https://www.eduonix.com/
 * Educative https://www.educative.io/
 
-This is the manner I used to  improve my skills and gain the new ones I deemed useful.
-
-## “Learning is a Lifelong Process”
-“We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.” -  Peter Drucker
+This is the manner I use to  improve my skills and gain the new ones I deem useful.
 
 ![continuous learning](Learning.png)
+
+Learning is a Lifelong Process
+“We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.” -  Peter Drucker
+
+
