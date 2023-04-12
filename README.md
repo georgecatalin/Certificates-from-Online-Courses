@@ -10,5 +10,8 @@ I have accumulated a collection of certificates from various online learning cou
 
 ![continuous learning](Learning.png)
 
-
+### Contact
+* George Calin 
+* george.calin [at] gmail.com
+* LinkedIn: https://www.linkedin.com/in/cgeorge1978/
 
