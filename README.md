@@ -1,7 +1,5 @@
-# Certificates from Online Courses
-Certificates from my journey of continuous online learning.
-
-I make use of:
+# Certificates 
+I have accumulated a collection of certificates from various online learning courses that I have completed over time:
 * LinkedIn Learning https://www.linkedin.com/learning/ ,
 * Pluralsight https://www.pluralsight.com/, 
 * Udemy https://www.udemy.com/, 
@@ -12,7 +10,5 @@ I make use of:
 
 ![continuous learning](Learning.png)
 
-## Quote ##
-“We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.” -  Peter Drucker
 
 
