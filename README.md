@@ -1,4 +1,4 @@
-# Continuous Learning
+# Learning
 A collection of certificates from various online learning courses that I have completed over time:
 * LinkedIn Learning https://www.linkedin.com/learning/ ,
 * Pluralsight https://www.pluralsight.com/, 
