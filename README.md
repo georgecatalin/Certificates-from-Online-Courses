@@ -1,5 +1,5 @@
 # Learning
-A collection of certificates from various online learning courses that I have completed over time:
+Online learning courses that I have completed over time:
 * LinkedIn Learning https://www.linkedin.com/learning/ ,
 * Pluralsight https://www.pluralsight.com/, 
 * Udemy https://www.udemy.com/, 
@@ -10,8 +10,5 @@ A collection of certificates from various online learning courses that I have co
 
 ![continuous learning](Learning.png)
 
-### Contact
-* George Calin 
-* george.calin [at] gmail.com
 * LinkedIn: https://www.linkedin.com/in/cgeorge1978/
 
