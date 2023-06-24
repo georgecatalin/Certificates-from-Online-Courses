@@ -10,5 +10,6 @@ Online learning courses that I have completed over time:
 
 ![continuous learning](Learning.png)
 
+# About me
 * LinkedIn: https://www.linkedin.com/in/cgeorge1978/
 
