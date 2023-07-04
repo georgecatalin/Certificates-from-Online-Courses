@@ -1,5 +1,5 @@
 # Learning
-Online learning courses that I have completed over time:
+Online learning:
 * LinkedIn Learning https://www.linkedin.com/learning/ ,
 * Pluralsight https://www.pluralsight.com/, 
 * Udemy https://www.udemy.com/, 
