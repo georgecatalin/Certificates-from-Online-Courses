@@ -1,5 +1,5 @@
 # Learning
-Online destinations:
+## Online destinations:
 * LinkedIn Learning https://www.linkedin.com/learning/ ,
 * Pluralsight https://www.pluralsight.com/, 
 * Udemy https://www.udemy.com/, 
@@ -7,7 +7,7 @@ Online destinations:
 * Alison https://alison.com/ ,
 * Eduonix https://www.eduonix.com/
 * Educative https://www.educative.io/
-
+## Mantra
 ![continuous learning](Learning.png)
 
 ### About me
