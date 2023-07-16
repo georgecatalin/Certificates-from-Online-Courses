@@ -1,5 +1,5 @@
 # Learning
-Online learning:
+Online destinations:
 * LinkedIn Learning https://www.linkedin.com/learning/ ,
 * Pluralsight https://www.pluralsight.com/, 
 * Udemy https://www.udemy.com/, 
@@ -10,6 +10,8 @@ Online learning:
 
 ![continuous learning](Learning.png)
 
-# About me
+### About me
+* George Calin
+* george.calin [at] gmail.com
 * LinkedIn: https://www.linkedin.com/in/cgeorge1978/
 
