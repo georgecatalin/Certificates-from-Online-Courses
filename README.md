@@ -10,9 +10,9 @@
 * Reporting
 ## 2016 -2018  
 * SQL Server,
-* SQL Server Management Studio,
+* SQL Server Management Studio (SSMS),
 * T-SQL,
-* SQL Server Reporting Services
+* SQL Server Reporting Services (SSRS)
 ## 2018 -2020  
 * Agile framework,
 * Visual Studio IDE,
