@@ -22,7 +22,8 @@
 * CSS,
 * HTML,
 * Windows Presentation Foundation (WPF),
-* XAML
+* XAML,
+* Windows Forms
 ## 2020 - ongoing 
 * Agile Framework,
 * Linux,
