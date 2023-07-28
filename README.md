@@ -1,7 +1,6 @@
 # Learning log
 
 # Timeline and Points of Interest
-* 2016 - now
 ## 2015 - 2016 
 * Microsoft Excel, Visual Basic for Applications, SQL, Dashboards, Business Intelligence, Reporting
 ## 2016 -2018  
