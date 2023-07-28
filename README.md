@@ -2,13 +2,42 @@
 
 # Timeline and Points of Interest
 ## 2015 - 2016 
-* Microsoft Excel, Visual Basic for Applications, SQL, Dashboards, Business Intelligence, Reporting
+* Microsoft Excel,
+* Visual Basic for Applications,
+* SQL,
+* Dashboards,
+* Business Intelligence,
+* Reporting
 ## 2016 -2018  
-* SQL Server, SQL Server Management Studio, T-SQL, SQL Server Reporting Services
+* SQL Server,
+* SQL Server Management Studio,
+* T-SQL,
+* SQL Server Reporting Services
 ## 2018 -2020  
-* Agile framework, Visual Studio IDE, C#, ASP.NET Web Forms, Javascript, CSS, HTML, Windows Presentation Foundation, XAML
+* Agile framework,
+* Visual Studio IDE,
+* C#,
+* ASP.NET Web Forms,
+* Javascript, jQuery
+* CSS,
+* HTML,
+* Windows
+* Presentation Foundation, XAML
 ## 2020 - ongoing 
-* Agile Framework, Linux, Embedded Development, Yocto Project, C, C++, Qt, Python, bare-metal programming, STM32Cube IDE, STM32Cube MX, Lightweight and Versatile Embedded Graphics Library (LVGL), RTOS/FreeRTOS, Docker, GitLab, CI/CD
+* Agile Framework,
+* Linux,
+* Embedded Development,
+* Bare-metal development
+* Yocto Project,
+* C,
+* C++,
+* Qt,
+* STM32Cube IDE,
+* STM32Cube MX,
+* Lightweight and Versatile Embedded Graphics Library (LVGL),
+* RTOS/FreeRTOS,
+* Docker, GitLab, CI/CD
+* Python, 
 
 # Online learning platforms:
 * LinkedIn Learning https://www.linkedin.com/learning/ ,
