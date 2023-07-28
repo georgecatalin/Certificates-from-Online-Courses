@@ -38,7 +38,7 @@
 * Lightweight and Versatile Embedded Graphics Library (LVGL),
 * RTOS/FreeRTOS,
 * Docker, GitLab, CI/CD
-* Python, 
+* Python
 
 # Online learning platforms:
 * LinkedIn Learning https://www.linkedin.com/learning/ ,
