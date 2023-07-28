@@ -28,7 +28,7 @@
 * Agile Framework,
 * Linux,
 * Embedded Development,
-* Bare-metal development
+* Bare-metal development,
 * Yocto Project,
 * C,
 * C++,
