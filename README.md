@@ -27,7 +27,7 @@
 ## 2020 - ongoing 
 * Agile Framework,
 * Linux,
-* Embedded Development,
+* Embedded Linux Development,
 * Bare-metal development,
 * Yocto Project,
 * C,
