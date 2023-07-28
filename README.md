@@ -21,7 +21,8 @@
 * Javascript, jQuery
 * CSS,
 * HTML,
-* Windows Presentation Foundation (WPF), XAML
+* Windows Presentation Foundation (WPF),
+* XAML
 ## 2020 - ongoing 
 * Agile Framework,
 * Linux,
