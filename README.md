@@ -49,7 +49,7 @@
 * Eduonix https://www.eduonix.com/
 * Educative https://www.educative.io/
 ### How it goes
-![continuous learning](Learning.png)
+![continuous learning](coffee.jpg)
 
 # About me
 * George Calin
