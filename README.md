@@ -39,6 +39,8 @@
 * RTOS/FreeRTOS,
 * Docker, GitLab, CI/CD
 * Python
+* SAP S\4HANA
+* ABAP
 
 # Online learning platforms:
 * LinkedIn Learning https://www.linkedin.com/learning/ ,
