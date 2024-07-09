@@ -42,6 +42,7 @@
 ## 2024 - ongoing
 * SAP S/4HANA
 * ABAP
+* SAP Business Technology Platform
 
 # Online learning platforms:
 * LinkedIn Learning https://www.linkedin.com/learning/ ,
