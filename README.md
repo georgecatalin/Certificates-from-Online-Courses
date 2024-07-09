@@ -39,7 +39,7 @@
 * RTOS/FreeRTOS,
 * Docker, GitLab, CI/CD,
 * Python
-  ## 2024 - ongoing
+## 2024 - ongoing
 * SAP S/4HANA
 * ABAP
 
