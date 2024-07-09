@@ -24,7 +24,7 @@
 * Windows Presentation Foundation (WPF),
 * XAML,
 * Windows Forms
-## 2020 - ongoing 
+## 2020 - 2024 
 * Agile Framework,
 * Linux,
 * Embedded Linux Development,
@@ -37,9 +37,10 @@
 * STM32Cube MX,
 * Lightweight and Versatile Embedded Graphics Library (LVGL),
 * RTOS/FreeRTOS,
-* Docker, GitLab, CI/CD
+* Docker, GitLab, CI/CD,
 * Python
-* SAP S\4HANA
+  ## 2024 - ongoing
+* SAP S/4HANA
 * ABAP
 
 # Online learning platforms:
