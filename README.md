@@ -43,6 +43,7 @@
 * SAP S/4HANA
 * ABAP
 * SAP Business Technology Platform
+* C#
 
 ## Online learning platforms:
 * LinkedIn Learning https://www.linkedin.com/learning/ ,
