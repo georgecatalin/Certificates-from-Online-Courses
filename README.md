@@ -39,7 +39,7 @@
 * RTOS/FreeRTOS,
 * Docker, GitLab, CI/CD,
 * Python
-### 2024 - ongoing
+### 2024 - 2025
 * SAP S/4HANA
 * ABAP
 * SAP Business Technology Platform
