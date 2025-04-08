@@ -205,7 +205,7 @@
 * SAP Materials Management Overview.pdf
 * SAP Materials Requirements Planning.pdf
 * SAP Procure to Pay Process Flow.pdf
-* SAP Professional Fundamentals Coursera FHLD5TYMUC3B.pdf
+* SAP Professional Fundamentals Coursera FHLD5TYMUC3B.pdf (2024)
 * SAP Purchasing.pdf
 * SAP S4 HANA  Intermediate SAP Skills.pdf
 * SAP S4 HANA - Basic Navigation.pdf
