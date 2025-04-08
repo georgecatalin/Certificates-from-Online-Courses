@@ -107,6 +107,116 @@
 * Meet the Command Line_PL.pdf
 * Red Hat Enterprise Linux Shell Fundamentals_PL.pdf
 
+### Mobile Development
+* Flutter The Big Picture_PL.pdf
+  
+### Learning about Microcontroller Programming
+* An Introduction to the Controller Area Network (CAN) Bus.pdf
+* Build Your Own RealTime OS (RTOS) From Ground Up on ARM 1 part 1.pdf
+* Embedded Systems Bare-Metal Programming Ground Up (STM32).pdf
+* Embedded Systems STM32 HAL APIs Driver Development.pdf
+* FreeRTOS From Ground Up on ARM Processors.pdf
+* Mastering Microcontroller STM32-LTDC LCD-TFT LVGL.pdf
+* Mastering STM32CubeMX 5 and CubeIDE.pdf
+* Microcontroller Embedded C Programming.pdf
+  
+### Network Traffic Analysis
+* Wireshark Essential Training.pdf
+* Wireshark Network Troubleshooting.pdf
+
+### Operations Management
+* Accounting Foundations Bookkeeping.pdf
+* CertificateOfCompletion_Accounting Foundations.pdf
+* Financial Analysis Introduction to Business Performance Analysis.pdf
+
+### Office Tools
+* SharePoint Online Essential Training The Basics.pdf (2024)
+
+### Project Management
+* Advanced Agile The Teams Mindset.pdf
+* Agile at Work Building Your Agile Team PMI.pdf
+* Agile at Work Driving Productive Agile Meetings.pdf
+* Agile at Work Planning with Agile User Stories PMI.pdf
+* Agile Foundations.pdf
+* Agile Product Owner Role Foundations IIBA.pdf
+* Agile Software Development Extreme Programming.pdf
+* Agile Software Development Kanban for Developers.pdf
+* Agile Software Development Pair and Mob Programming.pdf
+* Agile Software Development Transforming Your Organization.pdf
+* CertificateOfCompletion_Azure DevOps for Beginners.pdf
+* Comparing Agile versus Waterfall Project Management.pdf
+* Hybrid Project Management Do What Works.pdf
+* Learning Gantt Charts.pdf
+* Process Improvement Foundations.pdf
+* Project Management Iterative Methods.pdf
+* Project Management Iterative Methods_PMU.pdf
+* Project Management Simplified 2014.pdf
+* Project Management Solving Common Project Problems.pdf
+* Scrum The Basics.pdf
+* Stay Lean with Kanban.pdf
+
+### Learning the Python Language
+* Django 4 and Python Full-Stack Developer Masterclass.pdf
+* Python Quick Start.pdf
+* Python Quickstart for Experienced Programmers.pdf
+
+ ### Webdevelopment Technologies
+* Hands-on JavaScript Project JSON_PL.pdf
+* HTML Essential Training 2017.pdf
+* jQuery Essential Training.pdf
+* Laravel 9 The Big Picture.pdf
+* Learning the JavaScript Language 2012.pdf
+* Making Sense of the CSS Box Model 2015.pdf
+* Node.js 12 The Big Picture.pdf
+* PHP The Big Picture.pdf
+* React 18 The Big Picture.pdf
+  
+### Webservices and APIs
+* API and Web Service Introduction.pdf
+* Designing RESTful APIs.pdf
+* Learning REST APIs.pdf
+* Programming Foundations Web Services.pdf
+
+### Learning the SAP ecosystem (SAP functional, ABAP Workbench, SAP BTP)
+* A Tour of the SAP Cloud Platform.pdf
+* ABAP for SAP Users.pdf
+* ABAP Workbench The Big Picture.pdf
+* SAP Financials Essential Training.pdf
+* Installing the SAP GUI.pdf
+* Introduction to ABAP 7.4 in S4HANA.pdf
+* Introduction to SAP Activate Implementation Methodology.pdf
+* Introduction to SAP Configuration.pdf
+* Learn SAP ABAP Objects.pdf
+* Learning SAP Human Capital Management.pdf
+* Learning SAP MM Materials Management.pdf
+* Learning SAP Production Planning.pdf
+* Learning SAP Sales and Distribution SD Module.pdf
+* Microsoft Excel Integration with SAP Using OData.pdf
+* Planning Basics in SAP Certificate.pdf
+* Reading Data in ABAP with Open SQL.pdf
+* SAP ABAP Intro to Editing & Operators.pdf
+* SAP ABAP Programming for Beginners.pdf
+* SAP ABAP Working with Data Basics.pdf
+* SAP BTP For Beginners.pdf
+* SAP ERP Essential Training.pdf
+* SAP Financials Essential Training.pdf
+* SAP Inventory Management.pdf
+* SAP Material Master Data.pdf
+* SAP Materials Management Overview.pdf
+* SAP Materials Requirements Planning.pdf
+* SAP Procure to Pay Process Flow.pdf
+* SAP Professional Fundamentals Coursera FHLD5TYMUC3B.pdf
+* SAP Purchasing.pdf
+* SAP S4 HANA  Intermediate SAP Skills.pdf
+* SAP S4 HANA - Basic Navigation.pdf
+* SAP S4 HANA - Basic Reporting Skills.pdf
+* SAP S4 HANA - Intermediate Reporting Skills.pdf
+* SAP S4HANA Beyond the Basics.pdf
+* SAP Sales and Distribution Overview.pdf
+* The Ultimate SAP S/4 HANA Course.pdf
+* Using ABAP on SAP HANA Cloud Trial Platform.pdf
+        
+
 ## Timeline and my focus
 ### 2014 - 2016 
 * Microsoft Excel,
