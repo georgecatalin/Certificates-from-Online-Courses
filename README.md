@@ -1,50 +1,4 @@
 # Learning log
-
-## Timeline and my focus
-### 2014 - 2016 
-* Microsoft Excel,
-* Visual Basic for Applications,
-* SQL,
-* Dashboards,
-* Business Intelligence,
-* Reporting
-### 2016 -2018  
-* SQL Server,
-* SQL Server Management Studio (SSMS),
-* T-SQL,
-* SQL Server Reporting Services (SSRS)
-### 2018 -2020  
-* Agile framework,
-* Visual Studio IDE,
-* C#,
-* ASP.NET Web Forms,
-* Javascript, jQuery
-* CSS,
-* HTML,
-* Windows Presentation Foundation (WPF),
-* XAML,
-* Windows Forms
-### 2020 - 2024 
-* Agile Framework,
-* Linux,
-* Embedded Linux Development,
-* Bare-metal development,
-* Yocto Project,
-* C,
-* C++,
-* Qt,
-* STM32Cube IDE,
-* STM32Cube MX,
-* Lightweight and Versatile Embedded Graphics Library (LVGL),
-* RTOS/FreeRTOS,
-* Docker, GitLab, CI/CD,
-* Python
-### 2024 - 2025
-* SAP S/4HANA
-* ABAP
-* SAP Business Technology Platform
-* C#
-
 ## Courses Content
 ### Artificial Intelligence
 * Artificial Intelligence Essentials Chatbots.pdf
@@ -96,6 +50,107 @@
 * Qt 5 C++ GUI Development For Beginners  The Fundamentals.pdf
 * Qt 5 Core for Beginners with Cpp.pdf
 * Qt 5 Widgets for Beginners with C++.pdf
+
+### Cloud introduction
+* Cloud Architecture Advanced Concepts.pdf
+* Cloud Architecture Core Concepts.pdf
+* Cloud Foundry 6 The big picture.pdf (2024)
+* Microsoft Azure for Developers.pdf
+
+### Mastering Excel, VBA and SQL for Business Intelligence
+* Advanced SQL Server Reporting Services.pdf
+* Excel 2010 Macros.pdf
+* Excel VBA Managing Files and Data 2014.pdf
+* Introduction to SQL Server_PL.pdf
+* Learning Microsoft Business Intelligence Stack.pdf
+* Microsoft MTA Database Administration Fundamentals_PL.pdf
+* SQL Server Management Studio by Example_PL.pdf
+
+### Version Control Systems and DevOps
+* Azure DevOps for Beginners.pdf (2024)
+* Continuous Integration and Continuous Delivery with GitLab.pdf
+* Docker-for-dummies-the-complete-absolute-beginners-guide.jpg
+* Getting Started with Git_PL.pdf
+* Learning GitLab.pdf
+
+### Learning the Java Language (the essentials)
+* Java Language
+* Java 8 Essential Training.pdf
+* Learning Java 2018.pdf
+* Modern Java The Big Picture_PL.pdf
+
+### Leadership and self development
+* Build Your Career with Michael Lopp_PL.pdf
+* Burning out and how to deal with it_PL.pdf
+* Careers in the Game Industry.pdf
+* Connecting with Peers in the Workplace 2014.pdf
+* Developing Executive Presence.pdf
+* Foundations of The Fourth Industrial Revolution Industry 4.0.pdf
+* How to Create Interesting and Meaningful Work.pdf
+* Humor in the Workplace.pdf
+* Improving Your Conflict Competence.pdf
+* Improving Your Memory.pdf
+* Learning Technology in the Information Age_PL.pdf
+* Learning to Be Assertive.pdf
+* Managing Your Personal Investments.pdf
+* Managing Your Time.pdf
+* Sales Foundations.pdf
+* Teamwork Foundations 2015.pdf
+* The Science of Sales.pdf
+* Web Development Foundations FullStack vs FrontEnd.pdf
+* Working on a CrossFunctional Team.pdf
+
+### Learning the Linux Operating System
+* Getting Started with Linux_PL.pdf
+* Getting Started with the Linux Command Line_PL.pdf
+* Learning Ubuntu Desktop Linux 2014.pdf
+* Meet the Command Line_PL.pdf
+* Red Hat Enterprise Linux Shell Fundamentals_PL.pdf
+
+## Timeline and my focus
+### 2014 - 2016 
+* Microsoft Excel,
+* Visual Basic for Applications,
+* SQL,
+* Dashboards,
+* Business Intelligence,
+* Reporting
+### 2016 -2018  
+* SQL Server,
+* SQL Server Management Studio (SSMS),
+* T-SQL,
+* SQL Server Reporting Services (SSRS)
+### 2018 -2020  
+* Agile framework,
+* Visual Studio IDE,
+* C#,
+* ASP.NET Web Forms,
+* Javascript, jQuery
+* CSS,
+* HTML,
+* Windows Presentation Foundation (WPF),
+* XAML,
+* Windows Forms
+### 2020 - 2024 
+* Agile Framework,
+* Linux,
+* Embedded Linux Development,
+* Bare-metal development,
+* Yocto Project,
+* C,
+* C++,
+* Qt,
+* STM32Cube IDE,
+* STM32Cube MX,
+* Lightweight and Versatile Embedded Graphics Library (LVGL),
+* RTOS/FreeRTOS,
+* Docker, GitLab, CI/CD,
+* Python
+### 2024 - 2025
+* SAP S/4HANA
+* ABAP
+* SAP Business Technology Platform
+* C#
 
 
 ## Online learning platforms:
