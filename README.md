@@ -159,7 +159,8 @@
 * Django 4 and Python Full-Stack Developer Masterclass.pdf
 * Python Quick Start.pdf
 * Python Quickstart for Experienced Programmers.pdf
-*  Python Programmer's Ultimate Guide | Zero to Hero (2025.05)
+* Python Programmer's Ultimate Guide | Zero to Hero (2025.05)
+* Learn Python Requests (2025.05)
 
  ### Webdevelopment Technologies
 * Hands-on JavaScript Project JSON_PL.pdf
