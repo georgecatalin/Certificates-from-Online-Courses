@@ -10,6 +10,7 @@
 * Pair Programming with AI.pdf
 * RPA AI and Cognitive Tech for Leaders NASBA.pdf
 * The IT Ops Sessions GitHub Copilot for the IT Operations Professional.pdf
+* Agentic AI Fundamentals Architectures Frameworks and Applications.pdf (2026)
 
 ### Learning the C language
 * C Data Structures Pointers and File Systems.pdf
@@ -263,6 +264,9 @@
 * ABAP
 * SAP Business Technology Platform
 * C#
+### 2025 - onwards
+* Embedded Development
+* Artificial Intelligence
 
 
 ## Online learning platforms:
