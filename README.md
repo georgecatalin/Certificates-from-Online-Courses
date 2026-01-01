@@ -267,6 +267,8 @@
 ### 2025 - onwards
 * Embedded Development
 * Artificial Intelligence
+* Leadership
+* Project Management
 
 
 ## Online learning platforms:
