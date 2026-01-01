@@ -278,8 +278,8 @@
 * Eduonix https://www.eduonix.com/ ,
 * Educative https://www.educative.io/ ,
 * Michael Management https://www.michaelmanagement.com/ .
-### How it goes
-![continuous learning](coffee.jpg)
+
+![continuous learning](Featured_Thumbnail.png)
 
 # About me
 * George Calin
