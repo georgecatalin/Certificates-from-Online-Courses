@@ -11,6 +11,7 @@
 * RPA AI and Cognitive Tech for Leaders NASBA.pdf
 * The IT Ops Sessions GitHub Copilot for the IT Operations Professional.pdf
 * Agentic AI Fundamentals Architectures Frameworks and Applications.pdf (2026)
+* OpenAI ChatGPT Creating Custom GPTs (2026)
 
 ### Learning the C language
 * C Data Structures Pointers and File Systems.pdf
