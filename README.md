@@ -11,8 +11,12 @@
 * RPA AI and Cognitive Tech for Leaders NASBA.pdf
 * The IT Ops Sessions GitHub Copilot for the IT Operations Professional.pdf
 * Agentic AI Fundamentals Architectures Frameworks and Applications.pdf (2026)
-* OpenAI ChatGPT Creating Custom GPTs (2026)
-* ChatGPT Publishing GPTs on the GPT Store (2026)
+* OpenAI ChatGPT Creating Custom GPTs.pdf (2026)
+* ChatGPT Publishing GPTs on the GPT Store.pdf (2026)
+* Secure Generative AI and LLM Deployment.pdf (2026)
+
+### Blockchain
+* Blockchain Basics NASBA.pdf
 
 ### Learning the C language
 * C Data Structures Pointers and File Systems.pdf
@@ -20,14 +24,14 @@
 * C Essential Training 1 Syntax and Object Oriented Programming.pdf
 * C Essential Training 1 The Basics 2018.pdf
 * C Programming Language Fundamentals_PL.pdf
-* C Programming Master the C Language.pdf
+* CProgramming_Master_the_C_Language_CertificateOfCompletion_Udemy.pdf
 * Learn-Socket-Programming-Tutorial-in-C-from-Scratch.jpg
 * Learning C.pdf
 * Linux-Inter-Process-Communication-from-Scratch-in-C.pdf
 
 ### Learning the C# language
 * ASP.NET Essential Training 2013.pdf
-*  Beginning C# Collections_PL.pdf
+* Beginning C# Collections_PL.pdf
 * C Interfaces and Generics.pdf
 * C# Fundamentals_PL.pdf
 * CSharp 12 - Ultimate Guide - Beginner to Advanced  Master class.pdf (2025)
@@ -50,15 +54,18 @@
 ### Learning the C++ language and the Qt framework
 * Eduonix_certificate_learn-by-example-cplusplus-programming-75-solved-problems.jpg
 * Eduonix_certificate_learn-by-example-cplusplus-programming-75-solved-problems.pdf
+* Learn_By_Example_CPP_Programming 20260407.pdf (2026)
 * Qt 5 C++ GUI Development For Beginners  The Fundamentals.pdf
 * Qt 5 Core for Beginners with Cpp.pdf
 * Qt 5 Widgets for Beginners with C++.pdf
+* Qt 6 Core Beginners with Cpp.pdf (2026)
 
 ### Cloud introduction
 * Cloud Architecture Advanced Concepts.pdf
 * Cloud Architecture Core Concepts.pdf
 * Cloud Foundry 6 The big picture.pdf (2024)
 * Microsoft Azure for Developers.pdf
+* Microsoft Fabric Overview Understanding the potential.pdf
 
 ### Mastering Excel, VBA and SQL for Business Intelligence
 * Advanced SQL Server Reporting Services.pdf
@@ -77,7 +84,6 @@
 * Learning GitLab.pdf
 
 ### Learning the Java Language (the essentials)
-* Java Language
 * Java 8 Essential Training.pdf
 * Learning Java 2018.pdf
 * Modern Java The Big Picture_PL.pdf
@@ -107,6 +113,7 @@
 * Getting Started with Linux_PL.pdf
 * Getting Started with the Linux Command Line_PL.pdf
 * Learning Ubuntu Desktop Linux 2014.pdf
+* Master the Linux Command Line.pdf
 * Meet the Command Line_PL.pdf
 * Red Hat Enterprise Linux Shell Fundamentals_PL.pdf
 
@@ -160,12 +167,12 @@
 
 ### Learning the Python Language
 * Django 4 and Python Full-Stack Developer Masterclass.pdf
+* Learn Python Requests.pdf (2025)
+* Python Programmer's Ultimate Guide  Zero to Hero.pdf (2025)
 * Python Quick Start.pdf
 * Python Quickstart for Experienced Programmers.pdf
-* Python Programmer's Ultimate Guide | Zero to Hero (2025.05)
-* Learn Python Requests (2025.05)
 
- ### Webdevelopment Technologies
+### Webdevelopment Technologies
 * Hands-on JavaScript Project JSON_PL.pdf
 * HTML Essential Training 2017.pdf
 * jQuery Essential Training.pdf
@@ -187,6 +194,7 @@
 * ABAP for SAP Users.pdf
 * ABAP Workbench The Big Picture.pdf
 * SAP Financials Essential Training.pdf
+* CertificateOfCompletion_SAP Financials Essential Training.pdf
 * Installing the SAP GUI.pdf
 * Introduction to ABAP 7.4 in S4HANA.pdf
 * Introduction to SAP Activate Implementation Methodology.pdf
@@ -204,7 +212,6 @@
 * SAP ABAP Working with Data Basics.pdf
 * SAP BTP For Beginners.pdf
 * SAP ERP Essential Training.pdf
-* SAP Financials Essential Training.pdf
 * SAP Inventory Management.pdf
 * SAP Material Master Data.pdf
 * SAP Materials Management Overview.pdf
@@ -218,7 +225,7 @@
 * SAP S4 HANA - Intermediate Reporting Skills.pdf
 * SAP S4HANA Beyond the Basics.pdf
 * SAP Sales and Distribution Overview.pdf
-* The Ultimate SAP S/4 HANA Course.pdf
+* The Ultimate SAP S4HANA Course.pdf
 * Using ABAP on SAP HANA Cloud Trial Platform.pdf
         
 
@@ -289,4 +296,3 @@
 * George Calin
 * george.calin [at] gmail.com
 * LinkedIn: https://www.linkedin.com/in/cgeorge1978/
-
