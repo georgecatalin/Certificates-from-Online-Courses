@@ -17,6 +17,7 @@
 * Claude Code for Everyday Professionals Build Productivity Tools with Plain English (2026)
 * AI Agents for Everyday Professionals: Simple Automations to Speed Up Your Work (2026)
 * AI Agents in Your Browser Boosting Productivity with Gemini in Chrome (2026)
+* Claude Cowork 7Day Challenge Find Practical AI Use Cases That Deliver (2026)
 
 ### Blockchain
 * Blockchain Basics NASBA.pdf
