@@ -14,6 +14,7 @@
 * OpenAI ChatGPT Creating Custom GPTs.pdf (2026)
 * ChatGPT Publishing GPTs on the GPT Store.pdf (2026)
 * Secure Generative AI and LLM Deployment.pdf (2026)
+* Claude Code for Everyday Professionals Build Productivity Tools with Plain English (2026)
 
 ### Blockchain
 * Blockchain Basics NASBA.pdf
