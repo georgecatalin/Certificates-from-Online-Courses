@@ -19,6 +19,7 @@
 * AI Agents in Your Browser Boosting Productivity with Gemini in Chrome (2026)
 * Claude Cowork 7Day Challenge Find Practical AI Use Cases That Deliver (2026)
 * Claude Code 4 Agentic Coding for Professional Developers (2026)
+* Build and Deploy Anywhere with OpenAI GPT5Codex (2026)
 
 
 ### Blockchain
