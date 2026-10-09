@@ -21,7 +21,7 @@
 * Claude Code 4 Agentic Coding for Professional Developers (2026)
 * Build and Deploy Anywhere with OpenAI GPT5Codex (2026)
 * Google Antigravity Crash Course Google Antigravity In a Day (2026)
-
+* Claude Code Crash Course: Claude Code In a Day (2026)
 
 ### Blockchain
 * Blockchain Basics NASBA.pdf
