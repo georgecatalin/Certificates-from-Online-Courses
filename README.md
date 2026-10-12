@@ -113,7 +113,7 @@ Representative courses include:
 The full archive is organized by topic. Each file in the repository corresponds to a certificate or course-completion document.
 
 ### Artificial Intelligence
-- [AI Agents for Everyday Professionals: Simple Automations to Speed Up Your Work (No Code Required)](./Artificial%20Intelligence/AI%20Agents%20for%20Everyday%20Professionals%20Simple%20Automations%20to%20Speed%20Up%20Your%20Work%20%28No%20Code%20Required%29.pdf)
+- [AI Agents for Everyday Professionals: Simple Automations to Speed Up Your Work (No Code Required)](./Artificial%20Intelligence/AI%20Agents%20for%20Everyday%20Professionals%20Simple%20Automations%20to%20Speed%20Up%20Your%20Work%20No%20Code%20Required.pdf)
 - [AI Agents in Your Browser: Boosting Productivity with Gemini in Chrome](./Artificial%20Intelligence/AI%20Agents%20in%20Your%20Browser%20Boosting%20Productivity%20with%20Gemini%20in%20Chrome.pdf)
 - [Agentic AI Fundamentals: Architectures, Frameworks, and Applications](./Artificial%20Intelligence/Agentic%20AI%20Fundamentals%20Architectures%20Frameworks%20and%20Applications.pdf)
 - [Artificial Intelligence Essentials: Chatbots](./Artificial%20Intelligence/Artificial%20Intelligence%20Essentials%20Chatbots.pdf)
