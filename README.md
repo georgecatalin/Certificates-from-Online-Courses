@@ -113,8 +113,8 @@ Representative courses include:
 The full archive is organized by topic. Each file in the repository corresponds to a certificate or course-completion document.
 
 ### Artificial Intelligence
-- [AI Agents for Everyday Professionals: Simple Automations to Speed Up Your Work (No Code Required)](./Artificial%20Intelligence/AI%20Agents%20for%20Everyday%20Professionals%20Simple%20Automatio[...]
-- [AI Agents in Your Browser: Boosting Productivity with Gemini in Chrome](./Artificial%20Intelligence/AI%20Agents%20in%20Your%20Browser%20Boosting%20Productivity%20with%20Gemini%20in%20Chrome.pd[...]
+- [AI Agents for Everyday Professionals: Simple Automations to Speed Up Your Work (No Code Required)](./Artificial%20Intelligence/AI%20Agents%20for%20Everyday%20Professionals%20Simple%20Automations%20to%20Speed%20Up%20Your%20Work%20%28No%20Code%20Required%29.pdf)
+- [AI Agents in Your Browser: Boosting Productivity with Gemini in Chrome](./Artificial%20Intelligence/AI%20Agents%20in%20Your%20Browser%20Boosting%20Productivity%20with%20Gemini%20in%20Chrome.pdf)
 - [Agentic AI Fundamentals: Architectures, Frameworks, and Applications](./Artificial%20Intelligence/Agentic%20AI%20Fundamentals%20Architectures%20Frameworks%20and%20Applications.pdf)
 - [Artificial Intelligence Essentials: Chatbots](./Artificial%20Intelligence/Artificial%20Intelligence%20Essentials%20Chatbots.pdf)
 - [Artificial Intelligence Essentials: Responsible AI](./Artificial%20Intelligence/Artificial%20Intelligence%20Essentials%20Responsible%20AI.pdf)
@@ -125,15 +125,15 @@ The full archive is organized by topic. Each file in the repository corresponds 
 - [ChatGPT and IT Certifications](./Artificial%20Intelligence/ChatGPT%20and%20ITCertifications.pdf)
 - [Claude Code 4: Agentic Coding for Professional Developers](./Artificial%20Intelligence/Claude%20Code%204%20Agentic%20Coding%20for%20Professional%20Developers.pdf)
 - [Claude Code Crash Course: Claude Code in a Day](./Artificial%20Intelligence/Claude%20Code%20Crash%20Course%20Claude%20Code%20In%20a%20Day.pdf)
-- [Claude Code for Everyday Professionals: Build Productivity Tools with Plain English](./Artificial%20Intelligence/Claude%20Code%20for%20Everyday%20Professionals%20Build%20Productivity%20Tools%2[...]
-- [Claude Cowork 7-Day Challenge: Find Practical AI Use Cases That Deliver](./Artificial%20Intelligence/Claude%20Cowork%207Day%20Challenge%20Find%20Practical%20AI%20Use%20Cases%20That%20Deliver.p[...]
+- [Claude Code for Everyday Professionals: Build Productivity Tools with Plain English](./Artificial%20Intelligence/Claude%20Code%20for%20Everyday%20Professionals%20Build%20Productivity%20Tools%20with%20Plain%20English.pdf)
+- [Claude Cowork 7-Day Challenge: Find Practical AI Use Cases That Deliver](./Artificial%20Intelligence/Claude%20Cowork%207Day%20Challenge%20Find%20Practical%20AI%20Use%20Cases%20That%20Deliver.pdf)
 - [Getting Started on Prompt Engineering](./Artificial%20Intelligence/Getting%20Started%20on%20Prompt%20Engineering.pdf)
 - [Google Antigravity Crash Course: Google Antigravity in a Day](./Artificial%20Intelligence/Google%20Antigravity%20Crash%20Course%20Google%20Antigravity%20In%20a%20Day.pdf)
 - [OpenAI ChatGPT: Creating Custom GPTs](./Artificial%20Intelligence/OpenAI%20ChatGPT%20Creating%20Custom%20GPTs.pdf)
 - [Pair Programming with AI](./Artificial%20Intelligence/Pair%20Programming%20with%20AI.pdf)
 - [RPA, AI, and Cognitive Tech for Leaders](./Artificial%20Intelligence/RPA%20AI%20and%20Cognitive%20Tech%20for%20Leaders%20NASBA.pdf)
 - [Secure Generative AI and LLM Deployment](./Artificial%20Intelligence/Secure%20Generative%20AI%20and%20LLM%20Deployment.pdf)
-- [The IT Ops Sessions: GitHub Copilot for the IT Operations Professional](./Artificial%20Intelligence/The%20IT%20Ops%20Sessions%20GitHub%20Copilot%20for%20the%20IT%20Operations%20Professional.pd[...]
+- [The IT Ops Sessions: GitHub Copilot for the IT Operations Professional](./Artificial%20Intelligence/The%20IT%20Ops%20Sessions%20GitHub%20Copilot%20for%20the%20IT%20Operations%20Professional.pdf)
 
 ### Blockchain
 - [Blockchain Basics](./Blockchain/Blockchain%20Basics%20NASBA.pdf)
@@ -162,7 +162,7 @@ The full archive is organized by topic. Each file in the repository corresponds 
 - [Microsoft XAML 2: Content and Properties](./C%23%20language/Microsoft%20XAML%202%20Content%20and%20Properties.pdf)
 - [Microsoft XAML 3: Type Converters and Resources](./C%23%20language/Microsoft%20XAML%203%20Type%20Converters%20and%20Resources.pdf)
 - [Object-Oriented Programming Fundamentals in C#](./C%23%20language/Object-Oriented%20Programming%20Fundamentals%20in%20C%23_PL.pdf)
-- [Visual Studio Essential Training 01: Exploring the Visual Studio Ecosystem](./C%23%20language/Visual%20Studio%20Essential%20Training%2001%20Exploring%20the%20Visual%20Studio%20Ecosystem.pdf) [[...]
+- [Visual Studio Essential Training 01: Exploring the Visual Studio Ecosystem](./C%23%20language/Visual%20Studio%20Essential%20Training%2001%20Exploring%20the%20Visual%20Studio%20Ecosystem.pdf)
 - [Visual Studio Essential Training 02: Getting Comfortable with the IDE](./C%23%20language/Visual%20Studio%20Essential%20Training%2002%20Getting%20Comfortable%20with%20the%20IDE.pdf)
 - [Visual Studio Essential Training 03: Exploring Projects and Solutions](./C%23%20language/Visual%20Studio%20Essential%20Training%2003%20Exploring%20Projects%20and%20Solutions.pdf)
 - [Visual Studio Essential Training 05: Code Editors](./C%23%20language/Visual%20Studio%20Essential%20Training%2005%20Code%20Editors.pdf)
@@ -239,7 +239,7 @@ The full archive is organized by topic. Each file in the repository corresponds 
 
 ### Microcontroller Programming
 - [An Introduction to the Controller Area Network (CAN) Bus](./Microcontroller%20Programming/An%20Introduction%20to%20the%20Controller%20Area%20Network%20%28CAN%29%20Bus.pdf)
-- [Build Your Own Real-Time OS (RTOS) From Ground Up on ARM — Part 1](./Microcontroller%20Programming/Build%20Your%20Own%20RealTime%20OS%20%28RTOS%29%20From%20Ground%20Up%20on%20ARM%201%20part%[...]
+- [Build Your Own Real-Time OS (RTOS) From Ground Up on ARM — Part 1](./Microcontroller%20Programming/Build%20Your%20Own%20RealTime%20OS%20%28RTOS%29%20From%20Ground%20Up%20on%20ARM%201%20part%201.pdf)
 - [Embedded Systems Bare-Metal Programming Ground Up (STM32)](./Microcontroller%20Programming/Embedded%20Systems%20Bare-Metal%20Programming%20Ground%20Up%20%28STM32%29.pdf)
 - [Embedded Systems STM32 HAL APIs Driver Development](./Microcontroller%20Programming/Embedded%20Systems%20STM32%20HAL%20APIs%20Driver%20Development.pdf)
 - [FreeRTOS From Ground Up on ARM Processors](./Microcontroller%20Programming/FreeRTOS%20From%20Ground%20Up%20on%20ARM%20Processors.pdf)
