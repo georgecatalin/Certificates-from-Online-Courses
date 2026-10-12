@@ -2,8 +2,6 @@
 
 This repository contains my curated collection of **140+ course certificates** earned through online learning platforms, professional training providers, and technical education programs.
 
-It is designed to support my **LinkedIn profile, CV, and professional networking presence** by presenting a structured record of continuous learning across software engineering, cloud, AI, SAP, embedded systems, project management, and professional skills.
-
 ## Collection Snapshot
 
 - **140+ certificates** in one public archive
@@ -109,31 +107,6 @@ Representative courses include:
 - Working on a Cross-Functional Team
 - Managing Your Time
 - Build Your Career with Michael Lopp
-
-## Selected Highlights
-
-Below are selected certificates that best represent the breadth of this portfolio:
-
-- **Artificial Intelligence** — Agentic AI Fundamentals: Architectures, Frameworks, and Applications  
-  [`Artificial Intelligence/Agentic AI Fundamentals Architectures Frameworks and Applications.pdf`](Artificial%20Intelligence/Agentic%20AI%20Fundamentals%20Architectures%20Frameworks%20and%20Applications.pdf)
-- **Generative AI / Tooling** — OpenAI ChatGPT: Creating Custom GPTs  
-  [`Artificial Intelligence/OpenAI ChatGPT Creating Custom GPTs.pdf`](Artificial%20Intelligence/OpenAI%20ChatGPT%20Creating%20Custom%20GPTs.pdf)
-- **AI for Engineering Productivity** — Claude Code 4: Agentic Coding for Professional Developers  
-  [`Artificial Intelligence/Claude Code 4 Agentic Coding for Professional Developers.pdf`](Artificial%20Intelligence/Claude%20Code%204%20Agentic%20Coding%20for%20Professional%20Developers.pdf)
-- **Cloud / DevOps** — Azure DevOps for Beginners  
-  [`Git and DevOps/Azure DevOps for Beginners.pdf`](Git%20and%20DevOps/Azure%20DevOps%20for%20Beginners.pdf)
-- **Embedded Systems** — FreeRTOS From Ground Up on ARM Processors  
-  [`Microcontroller Programming/FreeRTOS From Ground Up on ARM Processors.pdf`](Microcontroller%20Programming/FreeRTOS%20From%20Ground%20Up%20on%20ARM%20Processors.pdf)
-- **Programming** — C# 12: Ultimate Guide - Beginner to Advanced Master Class  
-  [`C# language/CSharp 12 - Ultimate Guide - Beginner to Advanced  Master class.pdf`](C%23%20language/CSharp%2012%20-%20Ultimate%20Guide%20-%20Beginner%20to%20Advanced%20%20Master%20class.pdf)
-- **Python / Full Stack** — Django 4 and Python Full-Stack Developer Masterclass  
-  [`Python language/Django 4 and Python Full-Stack Developer Masterclass.pdf`](Python%20language/Django%204%20and%20Python%20Full-Stack%20Developer%20Masterclass.pdf)
-- **SAP** — SAP Professional Fundamentals  
-  [`SAP ecosystem/SAP Professional Fundamentals Coursera FHLD5TYMUC3B.pdf`](SAP%20ecosystem/SAP%20Professional%20Fundamentals%20Coursera%20FHLD5TYMUC3B.pdf)
-- **Project Management** — Agile Foundations  
-  [`Project Management/Agile Foundations.pdf`](Project%20Management/Agile%20Foundations.pdf)
-- **Data & Reporting** — Learning Microsoft Business Intelligence Stack  
-  [`Excel, VBA and SQL/Learning Microsoft Business Intelligence Stack.pdf`](Excel,%20VBA%20and%20SQL/Learning%20Microsoft%20Business%20Intelligence%20Stack.pdf)
 
 ## Full Certificate Archive
 
@@ -372,70 +345,6 @@ The full archive is organized by topic. Each file in the repository corresponds 
 - Designing RESTful APIs
 - Learning REST APIs
 - Programming Foundations: Web Services
-
-## Learning Timeline and Focus Areas
-
-### 2014–2016
-- Microsoft Excel
-- Visual Basic for Applications (VBA)
-- SQL
-- Dashboards
-- Business Intelligence
-- Reporting
-
-### 2016–2018
-- SQL Server
-- SQL Server Management Studio (SSMS)
-- T-SQL
-- SQL Server Reporting Services (SSRS)
-
-### 2018–2020
-- Agile frameworks
-- Visual Studio IDE
-- C#
-- ASP.NET Web Forms
-- JavaScript and jQuery
-- CSS and HTML
-- Windows Presentation Foundation (WPF)
-- XAML
-- Windows Forms
-
-### 2020–2024
-- Linux
-- Embedded Linux development
-- Bare-metal development
-- C and C++
-- Qt
-- STM32CubeIDE and STM32CubeMX
-- LVGL
-- RTOS / FreeRTOS
-- Docker, GitLab, and CI/CD
-- Python
-
-### 2024–2025
-- SAP S/4HANA
-- ABAP
-- SAP Business Technology Platform
-- C# refresh and advancement
-
-### 2025–present
-- Embedded development
-- Artificial intelligence
-- Leadership
-- Project management
-
-## Online Learning Platforms
-
-- LinkedIn Learning
-- Pluralsight
-- Udemy
-- Coursera
-- Alison
-- Eduonix
-- Educative
-- Michael Management
-
-![continuous learning](Featured_Thumbnail.png)
 
 ## For Recruiters and Hiring Managers
 
