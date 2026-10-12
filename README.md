@@ -1,306 +1,456 @@
-# Learning log
-## Courses Content
+# Professional Development & Course Certificates
+
+This repository contains my curated collection of **140+ course certificates** earned through online learning platforms, professional training providers, and technical education programs.
+
+It is designed to support my **LinkedIn profile, CV, and professional networking presence** by presenting a structured record of continuous learning across software engineering, cloud, AI, SAP, embedded systems, project management, and professional skills.
+
+## Collection Snapshot
+
+- **140+ certificates** in one public archive
+- Coverage across **technical, business, and professional development** topics
+- Learning evidence from platforms including **LinkedIn Learning, Pluralsight, Udemy, Coursera, Alison, Educative, Eduonix, and Michael Management**
+- Organized by topic for easier browsing by recruiters, hiring managers, and collaborators
+
+## Why this repository exists
+
+I use this repository as a **professional learning portfolio**.
+
+It helps me document:
+- sustained commitment to continuous learning
+- topic breadth across multiple technical domains
+- progression from foundations to more advanced subjects
+- role-relevant upskilling that complements projects and hands-on experience
+
+For recruiters and hiring managers, this repository serves as a verifiable companion resource for my **CV, LinkedIn profile, and job applications**.
+
+## Learning Areas
+
 ### Artificial Intelligence
-* Artificial Intelligence Essentials Chatbots.pdf
-* Artificial Intelligence Essentials Responsible AI.pdf
-* Artificial Intelligence Foundations Thinking Machines.pdf
-* Big Data in the Age of AI.pdf
-* ChatGPT and ITCertifications.pdf
-* Getting Started on Prompt Engineering.pdf
-* Pair Programming with AI.pdf
-* RPA AI and Cognitive Tech for Leaders NASBA.pdf
-* The IT Ops Sessions GitHub Copilot for the IT Operations Professional.pdf
-* Agentic AI Fundamentals Architectures Frameworks and Applications.pdf (2026)
-* OpenAI ChatGPT Creating Custom GPTs.pdf (2026)
-* ChatGPT Publishing GPTs on the GPT Store.pdf (2026)
-* Secure Generative AI and LLM Deployment.pdf (2026)
-* Claude Code for Everyday Professionals Build Productivity Tools with Plain English (2026)
-* AI Agents for Everyday Professionals: Simple Automations to Speed Up Your Work (2026)
-* AI Agents in Your Browser Boosting Productivity with Gemini in Chrome (2026)
-* Claude Cowork 7Day Challenge Find Practical AI Use Cases That Deliver (2026)
-* Claude Code 4 Agentic Coding for Professional Developers (2026)
-* Build and Deploy Anywhere with OpenAI GPT5Codex (2026)
-* Google Antigravity Crash Course Google Antigravity In a Day (2026)
-* Claude Code Crash Course: Claude Code In a Day (2026)
+Focus on practical AI adoption, prompt engineering, generative AI, agentic workflows, responsible AI, and developer productivity with AI tools.
+
+Representative courses include:
+- Agentic AI Fundamentals: Architectures, Frameworks, and Applications
+- OpenAI ChatGPT: Creating Custom GPTs
+- ChatGPT: Publishing GPTs on the GPT Store
+- Secure Generative AI and LLM Deployment
+- Claude Code 4: Agentic Coding for Professional Developers
+- Pair Programming with AI
+- GitHub Copilot for the IT Operations Professional
+
+### Cloud & DevOps
+Focus on cloud architecture, Azure, Cloud Foundry, Git, GitLab, DevOps workflows, CI/CD, and containerization fundamentals.
+
+Representative courses include:
+- Cloud Architecture: Core Concepts
+- Cloud Architecture: Advanced Concepts
+- Microsoft Azure for Developers
+- Azure DevOps for Beginners
+- Continuous Integration and Continuous Delivery with GitLab
+- Getting Started with Git
+- Docker for Dummies: The Complete Absolute Beginner's Guide
+
+### Software Development
+Focus on programming languages, desktop development, frameworks, APIs, and software engineering foundations.
+
+Representative course groups include:
+- **C / C++ / Qt**: pointers, file systems, socket programming, IPC, Qt widgets, GUI development
+- **C# / .NET**: ASP.NET, collections, interfaces, LINQ, XAML, WPF, Visual Studio
+- **Java / Python / Web**: Java essentials, Django, Python requests, JavaScript, Node.js, React, Laravel, PHP, HTML, CSS, jQuery
+- **Web Services & APIs**: API fundamentals, REST API design, web services foundations
+
+### Embedded Systems & Linux
+Focus on embedded C, STM32 development, HAL drivers, RTOS/FreeRTOS, CAN bus, Linux usage, shell fundamentals, and command-line proficiency.
+
+Representative courses include:
+- Embedded Systems Bare-Metal Programming Ground Up (STM32)
+- Embedded Systems STM32 HAL APIs Driver Development
+- FreeRTOS From Ground Up on ARM Processors
+- Microcontroller Embedded C Programming
+- Mastering STM32CubeMX 5 and CubeIDE
+- Getting Started with Linux
+- Master the Linux Command Line
+
+### SAP Ecosystem
+Focus on SAP S/4HANA, ABAP, SAP BTP, ERP fundamentals, MM, SD, procurement, reporting, configuration, and implementation methodology.
+
+Representative courses include:
+- SAP Professional Fundamentals
+- SAP BTP for Beginners
+- Introduction to ABAP 7.4 in S/4HANA
+- SAP ABAP Programming for Beginners
+- SAP ERP Essential Training
+- SAP Financials Essential Training
+- SAP Materials Management Overview
+- SAP Procure to Pay Process Flow
+- SAP S/4HANA: Basic Navigation and Reporting Skills
+
+### Data, Reporting & Business Tools
+Focus on SQL Server, SSMS, reporting, business intelligence, Excel macros, VBA, and SharePoint.
+
+Representative courses include:
+- Introduction to SQL Server
+- SQL Server Management Studio by Example
+- Advanced SQL Server Reporting Services
+- Learning Microsoft Business Intelligence Stack
+- Excel VBA: Managing Files and Data
+- SharePoint Online Essential Training: The Basics
+
+### Project Management & Professional Skills
+Focus on Agile, Scrum, Kanban, product ownership, process improvement, teamwork, communication, leadership, productivity, and career development.
+
+Representative courses include:
+- Agile Foundations
+- Scrum: The Basics
+- Stay Lean with Kanban
+- Agile Product Owner Role Foundations
+- Hybrid Project Management: Do What Works
+- Process Improvement Foundations
+- Developing Executive Presence
+- Working on a Cross-Functional Team
+- Managing Your Time
+- Build Your Career with Michael Lopp
+
+## Selected Highlights
+
+Below are selected certificates that best represent the breadth of this portfolio:
+
+- **Artificial Intelligence** — Agentic AI Fundamentals: Architectures, Frameworks, and Applications  
+  [`Artificial Intelligence/Agentic AI Fundamentals Architectures Frameworks and Applications.pdf`](Artificial%20Intelligence/Agentic%20AI%20Fundamentals%20Architectures%20Frameworks%20and%20Applications.pdf)
+- **Generative AI / Tooling** — OpenAI ChatGPT: Creating Custom GPTs  
+  [`Artificial Intelligence/OpenAI ChatGPT Creating Custom GPTs.pdf`](Artificial%20Intelligence/OpenAI%20ChatGPT%20Creating%20Custom%20GPTs.pdf)
+- **AI for Engineering Productivity** — Claude Code 4: Agentic Coding for Professional Developers  
+  [`Artificial Intelligence/Claude Code 4 Agentic Coding for Professional Developers.pdf`](Artificial%20Intelligence/Claude%20Code%204%20Agentic%20Coding%20for%20Professional%20Developers.pdf)
+- **Cloud / DevOps** — Azure DevOps for Beginners  
+  [`Git and DevOps/Azure DevOps for Beginners.pdf`](Git%20and%20DevOps/Azure%20DevOps%20for%20Beginners.pdf)
+- **Embedded Systems** — FreeRTOS From Ground Up on ARM Processors  
+  [`Microcontroller Programming/FreeRTOS From Ground Up on ARM Processors.pdf`](Microcontroller%20Programming/FreeRTOS%20From%20Ground%20Up%20on%20ARM%20Processors.pdf)
+- **Programming** — C# 12: Ultimate Guide - Beginner to Advanced Master Class  
+  [`C# language/CSharp 12 - Ultimate Guide - Beginner to Advanced  Master class.pdf`](C%23%20language/CSharp%2012%20-%20Ultimate%20Guide%20-%20Beginner%20to%20Advanced%20%20Master%20class.pdf)
+- **Python / Full Stack** — Django 4 and Python Full-Stack Developer Masterclass  
+  [`Python language/Django 4 and Python Full-Stack Developer Masterclass.pdf`](Python%20language/Django%204%20and%20Python%20Full-Stack%20Developer%20Masterclass.pdf)
+- **SAP** — SAP Professional Fundamentals  
+  [`SAP ecosystem/SAP Professional Fundamentals Coursera FHLD5TYMUC3B.pdf`](SAP%20ecosystem/SAP%20Professional%20Fundamentals%20Coursera%20FHLD5TYMUC3B.pdf)
+- **Project Management** — Agile Foundations  
+  [`Project Management/Agile Foundations.pdf`](Project%20Management/Agile%20Foundations.pdf)
+- **Data & Reporting** — Learning Microsoft Business Intelligence Stack  
+  [`Excel, VBA and SQL/Learning Microsoft Business Intelligence Stack.pdf`](Excel,%20VBA%20and%20SQL/Learning%20Microsoft%20Business%20Intelligence%20Stack.pdf)
+
+## Full Certificate Archive
+
+The full archive is organized by topic. Each file in the repository corresponds to a certificate or course-completion document.
+
+### Artificial Intelligence
+- AI Agents for Everyday Professionals: Simple Automations to Speed Up Your Work (No Code Required)
+- AI Agents in Your Browser: Boosting Productivity with Gemini in Chrome
+- Agentic AI Fundamentals: Architectures, Frameworks, and Applications
+- Artificial Intelligence Essentials: Chatbots
+- Artificial Intelligence Essentials: Responsible AI
+- Artificial Intelligence Foundations: Thinking Machines
+- Big Data in the Age of AI
+- Build and Deploy Anywhere with OpenAI GPT-5/Codex
+- ChatGPT: Publishing GPTs on the GPT Store
+- ChatGPT and IT Certifications
+- Claude Code 4: Agentic Coding for Professional Developers
+- Claude Code Crash Course: Claude Code in a Day
+- Claude Code for Everyday Professionals: Build Productivity Tools with Plain English
+- Claude Cowork 7-Day Challenge: Find Practical AI Use Cases That Deliver
+- Getting Started on Prompt Engineering
+- Google Antigravity Crash Course: Google Antigravity in a Day
+- OpenAI ChatGPT: Creating Custom GPTs
+- Pair Programming with AI
+- RPA, AI, and Cognitive Tech for Leaders
+- Secure Generative AI and LLM Deployment
+- The IT Ops Sessions: GitHub Copilot for the IT Operations Professional
 
 ### Blockchain
-* Blockchain Basics NASBA.pdf
+- Blockchain Basics
 
-### Learning the C language
-* C Data Structures Pointers and File Systems.pdf
-* C Essential Training  2 Flow Control Arrays and Exception Handling.pdf
-* C Essential Training 1 Syntax and Object Oriented Programming.pdf
-* C Essential Training 1 The Basics 2018.pdf
-* C Programming Language Fundamentals_PL.pdf
-* CProgramming_Master_the_C_Language_CertificateOfCompletion_Udemy.pdf
-* Learn-Socket-Programming-Tutorial-in-C-from-Scratch.jpg
-* Learning C.pdf
-* Linux-Inter-Process-Communication-from-Scratch-in-C.pdf
+### C Language
+- C Data Structures, Pointers, and File Systems
+- C Essential Training 2: Flow Control, Arrays, and Exception Handling
+- C Essential Training 1: Syntax and Object-Oriented Programming
+- C Essential Training 1: The Basics
+- C Programming Language Fundamentals
+- C Programming: Master the C Language
+- Learn Socket Programming Tutorial in C from Scratch
+- Learning C
+- Linux Inter-Process Communication from Scratch in C
 
-### Learning the C# language
-* ASP.NET Essential Training 2013.pdf
-* Beginning C# Collections_PL.pdf
-* C Interfaces and Generics.pdf
-* C# Fundamentals_PL.pdf
-* CSharp 12 - Ultimate Guide - Beginner to Advanced  Master class.pdf (2025)
-* CSharp Interfaces_PL.pdf
-* Diploma_in_C_Programming_Alison_com_Bob_Tabor.pdf
-* LINQ with C Essential Training.pdf
-* Microsoft XAML 1 Core Concepts.pdf
-* Microsoft XAML 2 Content and Properties.pdf
-* Microsoft XAML 3 Type Converters and Resources.pdf
-* Object-Oriented Programming Fundamentals in C#_PL.pdf
-* Visual Studio Essential Training 01 Exploring the Visual Studio Ecosystem.pdf
-* Visual Studio Essential Training 02 Getting Comfortable with the IDE.pdf
-* Visual Studio Essential Training 03 Exploring Projects and Solutions.pdf
-* Visual Studio Essential Training 05 Code Editors.pdf
-* Visual Studio Essential Training 11 Data Tools.pdf
-* Windows Presentation Foundation 1 Build Dramatic Desktop Applications.pdf
-* Working with Nulls in C#_PL.pdf
-* Xamarin.Forms The Big Picture_PL.pdf
+### C# Language
+- ASP.NET Essential Training
+- Beginning C# Collections
+- C# Interfaces and Generics
+- C# Fundamentals
+- C# 12: Ultimate Guide - Beginner to Advanced Master Class
+- C# Interfaces
+- Diploma in C Programming
+- LINQ with C# Essential Training
+- Microsoft XAML 1: Core Concepts
+- Microsoft XAML 2: Content and Properties
+- Microsoft XAML 3: Type Converters and Resources
+- Object-Oriented Programming Fundamentals in C#
+- Visual Studio Essential Training 01: Exploring the Visual Studio Ecosystem
+- Visual Studio Essential Training 02: Getting Comfortable with the IDE
+- Visual Studio Essential Training 03: Exploring Projects and Solutions
+- Visual Studio Essential Training 05: Code Editors
+- Visual Studio Essential Training 11: Data Tools
+- Windows Presentation Foundation 1: Build Dramatic Desktop Applications
+- Working with Nulls in C#
+- Xamarin.Forms: The Big Picture
 
-### Learning the C++ language and the Qt framework
-* Eduonix_certificate_learn-by-example-cplusplus-programming-75-solved-problems.jpg
-* Eduonix_certificate_learn-by-example-cplusplus-programming-75-solved-problems.pdf
-* Learn_By_Example_CPP_Programming 20260407.pdf (2026)
-* Qt 5 C++ GUI Development For Beginners  The Fundamentals.pdf
-* Qt 5 Core for Beginners with Cpp.pdf
-* Qt 5 Widgets for Beginners with C++.pdf
-* Qt 6 Core Beginners with Cpp.pdf (2026)
+### C++ and Qt
+- Learn by Example: C++ Programming — 75 Solved Problems
+- Learn by Example: C++ Programming
+- Qt 5 C++ GUI Development for Beginners: The Fundamentals
+- Qt 5 Core for Beginners with C++
+- Qt 5 Widgets for Beginners with C++
+- Qt 6 Core for Beginners with C++
 
-### Cloud introduction
-* Cloud Architecture Advanced Concepts.pdf
-* Cloud Architecture Core Concepts.pdf
-* Cloud Foundry 6 The big picture.pdf (2024)
-* Microsoft Azure for Developers.pdf
-* Microsoft Fabric Overview Understanding the potential.pdf
+### Cloud
+- Cloud Architecture: Advanced Concepts
+- Cloud Architecture: Core Concepts
+- Cloud Foundry 6: The Big Picture
+- Microsoft Azure for Developers
+- Microsoft Fabric Overview: Understanding the Potential
 
-### Mastering Excel, VBA and SQL for Business Intelligence
-* Advanced SQL Server Reporting Services.pdf
-* Excel 2010 Macros.pdf
-* Excel VBA Managing Files and Data 2014.pdf
-* Introduction to SQL Server_PL.pdf
-* Learning Microsoft Business Intelligence Stack.pdf
-* Microsoft MTA Database Administration Fundamentals_PL.pdf
-* SQL Server Management Studio by Example_PL.pdf
+### Excel, VBA and SQL
+- Advanced SQL Server Reporting Services
+- Excel 2010 Macros
+- Excel VBA: Managing Files and Data
+- Introduction to SQL Server
+- Learning Microsoft Business Intelligence Stack
+- Microsoft MTA: Database Administration Fundamentals
+- SQL Server Management Studio by Example
 
-### Version Control Systems and DevOps
-* Azure DevOps for Beginners.pdf (2024)
-* Continuous Integration and Continuous Delivery with GitLab.pdf
-* Docker-for-dummies-the-complete-absolute-beginners-guide.jpg
-* Getting Started with Git_PL.pdf
-* Learning GitLab.pdf
+### Git and DevOps
+- Azure DevOps for Beginners
+- Continuous Integration and Continuous Delivery with GitLab
+- Docker for Dummies: The Complete Absolute Beginner's Guide
+- Getting Started with Git
+- Learning GitLab
 
-### Learning the Java Language (the essentials)
-* Java 8 Essential Training.pdf
-* Learning Java 2018.pdf
-* Modern Java The Big Picture_PL.pdf
+### Java Language
+- Java 8 Essential Training
+- Learning Java
+- Modern Java: The Big Picture
 
-### Leadership and self development
-* Build Your Career with Michael Lopp_PL.pdf
-* Burning out and how to deal with it_PL.pdf
-* Careers in the Game Industry.pdf
-* Connecting with Peers in the Workplace 2014.pdf
-* Developing Executive Presence.pdf
-* Foundations of The Fourth Industrial Revolution Industry 4.0.pdf
-* How to Create Interesting and Meaningful Work.pdf
-* Humor in the Workplace.pdf
-* Improving Your Conflict Competence.pdf
-* Improving Your Memory.pdf
-* Learning Technology in the Information Age_PL.pdf
-* Learning to Be Assertive.pdf
-* Managing Your Personal Investments.pdf
-* Managing Your Time.pdf
-* Sales Foundations.pdf
-* Teamwork Foundations 2015.pdf
-* The Science of Sales.pdf
-* Web Development Foundations FullStack vs FrontEnd.pdf
-* Working on a CrossFunctional Team.pdf
+### Leadership and Self Development
+- Build Your Career with Michael Lopp
+- Burning Out and How to Deal with It
+- Careers in the Game Industry
+- Complete Obsidian: Build Your Second Brain with Zettelkasten
+- Connecting with Peers in the Workplace
+- Developing Executive Presence
+- Foundations of the Fourth Industrial Revolution: Industry 4.0
+- How to Create Interesting and Meaningful Work
+- Humor in the Workplace
+- Improving Your Conflict Competence
+- Improving Your Memory
+- Learning Technology in the Information Age
+- Learning to Be Assertive
+- Managing Your Personal Investments
+- Managing Your Time
+- Sales Foundations
+- Teamwork Foundations
+- The Science of Sales
+- Web Development Foundations: Full-Stack vs Front-End
+- Working on a Cross-Functional Team
 
-### Learning the Linux Operating System
-* Getting Started with Linux_PL.pdf
-* Getting Started with the Linux Command Line_PL.pdf
-* Learning Ubuntu Desktop Linux 2014.pdf
-* Master the Linux Command Line.pdf
-* Meet the Command Line_PL.pdf
-* Red Hat Enterprise Linux Shell Fundamentals_PL.pdf
+### Linux OS
+- Getting Started with Linux
+- Getting Started with the Linux Command Line
+- Learning Ubuntu Desktop Linux
+- Master the Linux Command Line
+- Meet the Command Line
+- Red Hat Enterprise Linux Shell Fundamentals
+
+### Microcontroller Programming
+- An Introduction to the Controller Area Network (CAN) Bus
+- Build Your Own Real-Time OS (RTOS) From Ground Up on ARM — Part 1
+- Embedded Systems Bare-Metal Programming Ground Up (STM32)
+- Embedded Systems STM32 HAL APIs Driver Development
+- FreeRTOS From Ground Up on ARM Processors
+- Mastering Microcontroller STM32-LTDC LCD-TFT LVGL
+- Mastering STM32CubeMX 5 and CubeIDE
+- Microcontroller Embedded C Programming
 
 ### Mobile Development
-* Flutter The Big Picture_PL.pdf
-  
-### Learning about Microcontroller Programming
-* An Introduction to the Controller Area Network (CAN) Bus.pdf
-* Build Your Own RealTime OS (RTOS) From Ground Up on ARM 1 part 1.pdf
-* Embedded Systems Bare-Metal Programming Ground Up (STM32).pdf
-* Embedded Systems STM32 HAL APIs Driver Development.pdf
-* FreeRTOS From Ground Up on ARM Processors.pdf
-* Mastering Microcontroller STM32-LTDC LCD-TFT LVGL.pdf
-* Mastering STM32CubeMX 5 and CubeIDE.pdf
-* Microcontroller Embedded C Programming.pdf
-  
-### Network Traffic Analysis
-* Wireshark Essential Training.pdf
-* Wireshark Network Troubleshooting.pdf
+- Flutter: The Big Picture
+
+### Networking
+- Wireshark Essential Training
+- Wireshark Network Troubleshooting
 
 ### Operations Management
-* Accounting Foundations Bookkeeping.pdf
-* CertificateOfCompletion_Accounting Foundations.pdf
-* Financial Analysis Introduction to Business Performance Analysis.pdf
+- Accounting Foundations: Bookkeeping
+- Accounting Foundations
+- Financial Analysis: Introduction to Business Performance Analysis
 
-### Office Tools
-* SharePoint Online Essential Training The Basics.pdf (2024)
+### Productivity
+- SharePoint Online Essential Training: The Basics
 
 ### Project Management
-* Advanced Agile The Teams Mindset.pdf
-* Agile at Work Building Your Agile Team PMI.pdf
-* Agile at Work Driving Productive Agile Meetings.pdf
-* Agile at Work Planning with Agile User Stories PMI.pdf
-* Agile Foundations.pdf
-* Agile Product Owner Role Foundations IIBA.pdf
-* Agile Software Development Extreme Programming.pdf
-* Agile Software Development Kanban for Developers.pdf
-* Agile Software Development Pair and Mob Programming.pdf
-* Agile Software Development Transforming Your Organization.pdf
-* CertificateOfCompletion_Azure DevOps for Beginners.pdf
-* Comparing Agile versus Waterfall Project Management.pdf
-* Hybrid Project Management Do What Works.pdf
-* Learning Gantt Charts.pdf
-* Process Improvement Foundations.pdf
-* Project Management Iterative Methods.pdf
-* Project Management Iterative Methods_PMU.pdf
-* Project Management Simplified 2014.pdf
-* Project Management Solving Common Project Problems.pdf
-* Scrum The Basics.pdf
-* Stay Lean with Kanban.pdf
+- Advanced Agile: The Team's Mindset
+- Agile Foundations
+- Agile Product Owner Role Foundations
+- Agile Software Development: Extreme Programming
+- Agile Software Development: Kanban for Developers
+- Agile Software Development: Pair and Mob Programming
+- Agile Software Development: Transforming Your Organization
+- Agile at Work: Building Your Agile Team
+- Agile at Work: Driving Productive Agile Meetings
+- Agile at Work: Planning with Agile User Stories
+- Azure DevOps for Beginners
+- Comparing Agile versus Waterfall Project Management
+- Hybrid Project Management: Do What Works
+- Learning Gantt Charts
+- Process Improvement Foundations
+- Project Management: Iterative Methods
+- Project Management Simplified
+- Project Management: Solving Common Project Problems
+- Scrum: The Basics
+- Stay Lean with Kanban
 
-### Learning the Python Language
-* Django 4 and Python Full-Stack Developer Masterclass.pdf
-* Learn Python Requests.pdf (2025)
-* Python Programmer's Ultimate Guide  Zero to Hero.pdf (2025)
-* Python Quick Start.pdf
-* Python Quickstart for Experienced Programmers.pdf
+### Python Language
+- Django 4 and Python Full-Stack Developer Masterclass
+- Learn Python Requests
+- Python Programmer's Ultimate Guide: Zero to Hero
+- Python Quick Start
+- Python Quickstart for Experienced Programmers
 
-### Webdevelopment Technologies
-* Hands-on JavaScript Project JSON_PL.pdf
-* HTML Essential Training 2017.pdf
-* jQuery Essential Training.pdf
-* Laravel 9 The Big Picture.pdf
-* Learning the JavaScript Language 2012.pdf
-* Making Sense of the CSS Box Model 2015.pdf
-* Node.js 12 The Big Picture.pdf
-* PHP The Big Picture.pdf
-* React 18 The Big Picture.pdf
-  
-### Webservices and APIs
-* API and Web Service Introduction.pdf
-* Designing RESTful APIs.pdf
-* Learning REST APIs.pdf
-* Programming Foundations Web Services.pdf
+### SAP Ecosystem
+- A Tour of the SAP Cloud Platform
+- ABAP Workbench: The Big Picture
+- ABAP for SAP Users
+- Installing the SAP GUI
+- Introduction to ABAP 7.4 in S/4HANA
+- Introduction to SAP Activate Implementation Methodology
+- Introduction to SAP Configuration
+- Learn SAP ABAP Objects
+- Learning SAP Human Capital Management
+- Learning SAP MM: Materials Management
+- Learning SAP Production Planning
+- Learning SAP Sales and Distribution (SD) Module
+- Microsoft Excel Integration with SAP Using OData
+- Planning Basics in SAP
+- Reading Data in ABAP with Open SQL
+- SAP ABAP: Intro to Editing & Operators
+- SAP ABAP Programming for Beginners
+- SAP ABAP: Working with Data Basics
+- SAP BTP for Beginners
+- SAP ERP Essential Training
+- SAP Financials Essential Training
+- SAP Inventory Management
+- SAP Material Master Data
+- SAP Materials Management Overview
+- SAP Materials Requirements Planning
+- SAP Procure to Pay Process Flow
+- SAP Professional Fundamentals
+- SAP Purchasing
+- SAP S/4HANA: Intermediate SAP Skills
+- SAP S/4HANA: Basic Navigation
+- SAP S/4HANA: Basic Reporting Skills
+- SAP S/4HANA: Intermediate Reporting Skills
+- SAP S/4HANA: Beyond the Basics
+- SAP Sales and Distribution Overview
+- The Ultimate SAP S/4HANA Course
+- Using ABAP on SAP HANA Cloud Trial Platform
 
-### Learning the SAP ecosystem (SAP functional, ABAP Workbench, SAP BTP)
-* A Tour of the SAP Cloud Platform.pdf
-* ABAP for SAP Users.pdf
-* ABAP Workbench The Big Picture.pdf
-* SAP Financials Essential Training.pdf
-* CertificateOfCompletion_SAP Financials Essential Training.pdf
-* Installing the SAP GUI.pdf
-* Introduction to ABAP 7.4 in S4HANA.pdf
-* Introduction to SAP Activate Implementation Methodology.pdf
-* Introduction to SAP Configuration.pdf
-* Learn SAP ABAP Objects.pdf
-* Learning SAP Human Capital Management.pdf
-* Learning SAP MM Materials Management.pdf
-* Learning SAP Production Planning.pdf
-* Learning SAP Sales and Distribution SD Module.pdf
-* Microsoft Excel Integration with SAP Using OData.pdf
-* Planning Basics in SAP Certificate.pdf
-* Reading Data in ABAP with Open SQL.pdf
-* SAP ABAP Intro to Editing & Operators.pdf
-* SAP ABAP Programming for Beginners.pdf
-* SAP ABAP Working with Data Basics.pdf
-* SAP BTP For Beginners.pdf
-* SAP ERP Essential Training.pdf
-* SAP Inventory Management.pdf
-* SAP Material Master Data.pdf
-* SAP Materials Management Overview.pdf
-* SAP Materials Requirements Planning.pdf
-* SAP Procure to Pay Process Flow.pdf
-* SAP Professional Fundamentals Coursera FHLD5TYMUC3B.pdf (2024)
-* SAP Purchasing.pdf
-* SAP S4 HANA  Intermediate SAP Skills.pdf
-* SAP S4 HANA - Basic Navigation.pdf
-* SAP S4 HANA - Basic Reporting Skills.pdf
-* SAP S4 HANA - Intermediate Reporting Skills.pdf
-* SAP S4HANA Beyond the Basics.pdf
-* SAP Sales and Distribution Overview.pdf
-* The Ultimate SAP S4HANA Course.pdf
-* Using ABAP on SAP HANA Cloud Trial Platform.pdf
-        
+### Web Development Technologies
+- HTML Essential Training
+- Hands-On JavaScript Project: JSON
+- Laravel 9: The Big Picture
+- Learning the JavaScript Language
+- Making Sense of the CSS Box Model
+- Node.js 12: The Big Picture
+- PHP: The Big Picture
+- React 18: The Big Picture
+- jQuery Essential Training
 
-## Timeline and my focus
-### 2014 - 2016 
-* Microsoft Excel,
-* Visual Basic for Applications,
-* SQL,
-* Dashboards,
-* Business Intelligence,
-* Reporting
-### 2016 -2018  
-* SQL Server,
-* SQL Server Management Studio (SSMS),
-* T-SQL,
-* SQL Server Reporting Services (SSRS)
-### 2018 -2020  
-* Agile framework,
-* Visual Studio IDE,
-* C#,
-* ASP.NET Web Forms,
-* Javascript, jQuery
-* CSS,
-* HTML,
-* Windows Presentation Foundation (WPF),
-* XAML,
-* Windows Forms
-### 2020 - 2024 
-* Agile Framework,
-* Linux,
-* Embedded Linux Development,
-* Bare-metal development,
-* Yocto Project,
-* C,
-* C++,
-* Qt,
-* STM32Cube IDE,
-* STM32Cube MX,
-* Lightweight and Versatile Embedded Graphics Library (LVGL),
-* RTOS/FreeRTOS,
-* Docker, GitLab, CI/CD,
-* Python
-### 2024 - 2025
-* SAP S/4HANA
-* ABAP
-* SAP Business Technology Platform
-* C#
-### 2025 - onwards
-* Embedded Development
-* Artificial Intelligence
-* Leadership
-* Project Management
+### Web Services and APIs
+- API and Web Service Introduction
+- Designing RESTful APIs
+- Learning REST APIs
+- Programming Foundations: Web Services
 
+## Learning Timeline and Focus Areas
 
-## Online learning platforms:
-* LinkedIn Learning https://www.linkedin.com/learning/ ,
-* Pluralsight https://www.pluralsight.com/, 
-* Udemy https://www.udemy.com/, 
-* Coursera https://www.coursera.org/ ,
-* Alison https://alison.com/ ,
-* Eduonix https://www.eduonix.com/ ,
-* Educative https://www.educative.io/ ,
-* Michael Management https://www.michaelmanagement.com/ .
+### 2014–2016
+- Microsoft Excel
+- Visual Basic for Applications (VBA)
+- SQL
+- Dashboards
+- Business Intelligence
+- Reporting
+
+### 2016–2018
+- SQL Server
+- SQL Server Management Studio (SSMS)
+- T-SQL
+- SQL Server Reporting Services (SSRS)
+
+### 2018–2020
+- Agile frameworks
+- Visual Studio IDE
+- C#
+- ASP.NET Web Forms
+- JavaScript and jQuery
+- CSS and HTML
+- Windows Presentation Foundation (WPF)
+- XAML
+- Windows Forms
+
+### 2020–2024
+- Linux
+- Embedded Linux development
+- Bare-metal development
+- C and C++
+- Qt
+- STM32CubeIDE and STM32CubeMX
+- LVGL
+- RTOS / FreeRTOS
+- Docker, GitLab, and CI/CD
+- Python
+
+### 2024–2025
+- SAP S/4HANA
+- ABAP
+- SAP Business Technology Platform
+- C# refresh and advancement
+
+### 2025–present
+- Embedded development
+- Artificial intelligence
+- Leadership
+- Project management
+
+## Online Learning Platforms
+
+- LinkedIn Learning
+- Pluralsight
+- Udemy
+- Coursera
+- Alison
+- Eduonix
+- Educative
+- Michael Management
 
 ![continuous learning](Featured_Thumbnail.png)
 
-# About me
-* George Calin
-* george.calin [at] gmail.com
-* LinkedIn: https://www.linkedin.com/in/cgeorge1978/
+## For Recruiters and Hiring Managers
+
+If you arrived here from my **LinkedIn profile, CV, or application materials**, this repository provides additional evidence of:
+- continuous professional development
+- self-directed technical learning
+- breadth across engineering, enterprise systems, and professional skills
+- long-term commitment to staying current with evolving technologies
+
+## Note
+
+These certificates complement practical experience, projects, and applied work. They represent **structured learning and continued development**, rather than standalone proof of proficiency.
+
+## About Me
+
+- **George Calin**
+- george.calin [at] gmail.com
+- LinkedIn: https://www.linkedin.com/in/cgeorge1978/
