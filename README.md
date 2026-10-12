@@ -7,7 +7,6 @@ This repository contains my curated collection of **140+ course certificates** e
 - **140+ certificates** in one public archive
 - Coverage across **technical, business, and professional development** topics
 - Learning evidence from platforms including **LinkedIn Learning, Pluralsight, Udemy, Coursera, Alison, Educative, Eduonix, and Michael Management**
-- Organized by topic for easier browsing by recruiters, hiring managers, and collaborators
 
 ## Why this repository exists
 
