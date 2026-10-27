@@ -253,6 +253,7 @@ The full archive is organized by topic. Each file in the repository corresponds 
 ### Networking
 - [Wireshark Essential Training](./Networking/Wireshark%20Essential%20Training.pdf)
 - [Wireshark Network Troubleshooting](./Networking/Wireshark%20Network%20Troubleshooting.pdf)
+- [MQTT_Masterclass](./Networking//MQTT_Masterclass.pdf)
 
 ### Operations Management
 - [Accounting Foundations: Bookkeeping](./Operations%20Management/Accounting%20Foundations%20Bookkeeping.pdf)
