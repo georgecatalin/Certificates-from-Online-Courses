@@ -1,6 +1,6 @@
 # Professional Development & Course Certificates
 
-This repository contains my curated collection of **140+ course certificates** earned through online learning platforms, professional training providers and technical education programs.
+This repository contains my curated collection of ** course certificates** earned through online learning platforms, professional training providers and technical education programs.
 
 ## Collection Snapshot
 
